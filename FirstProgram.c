@@ -1,4 +1,4 @@
-#include <stdio.h> 
+#include <stdio.h> //TODO Remember: This line is a 'Preprocessor Directive' that tells the compiler to include the standard input-output header file '<stdio.h>'. This Header File contains declarations for input and output functions such as 'printf' .
 int main() { //TODO Remeber: Compilers started to translate source code into machine code from main functions. Here int keyword declares that the number of this main functions return value is an integer. 
    printf("Hi, I am Mohammad Noman"); //TODO Remeber: Anything written inside double quotation("") is called as String.
    return 0; //TODO Remember: Returning 0 from the main function is a way to indicate to the operating system that the program has completed successfully without any errors. Also,It marks the end of the main function, and thus the end of the program's execution. When this statement is executed, the program terminates, and control is returned to the operating system.
